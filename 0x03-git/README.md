@@ -1,0 +1,1 @@
+verifying stability function
